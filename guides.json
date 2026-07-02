@@ -6,7 +6,7 @@
       {
         "id": 1,
         "title": "Setting Up 'Hey Siri'",
-        "description": "Learn how to activate Siri and train it to recognize your unique voice.",
+        "description": "Learn how to activate Siri and train it to recognize your unique voice for a seamless hands-free experience.",
         "steps": [
           "Open the 'Settings' app on your iPhone.",
           "Scroll down and tap on 'Siri & Search'.",
@@ -21,9 +21,9 @@
         "description": "Use Siri to quickly check the local weather forecast or the time anywhere in the world.",
         "steps": [
           "Say 'Hey Siri' to activate the assistant.",
-          "Ask 'What is the weather like today?' for a local forecast.",
+          "Ask 'What is the weather like in Yogyakarta today?' for a local forecast.",
           "Ask 'Will it rain tomorrow?' for future weather predictions.",
-          "Ask 'What time is it in London?' to check global time zones."
+          "Ask 'What time is it in Tokyo?' to check global time zones."
         ],
         "image_url": "https://placehold.co/800x600/34C759/FFFFFF/png?text=Weather+and+Time"
       },
@@ -32,9 +32,9 @@
         "title": "Making Hands-Free Calls",
         "description": "Call your friends, family, or local businesses without touching your screen.",
         "steps": [
-          "Say 'Hey Siri, call [Contact Name]'.",
+          "Say 'Hey Siri, call my wife' or mention a specific contact name.",
           "If the contact has multiple numbers, Siri will ask which one to call (e.g., Mobile or Work).",
-          "You can also say 'Hey Siri, call the nearest pizza place' to search and call local businesses.",
+          "You can also say 'Hey Siri, call the nearest Japanese restaurant' to search and call local dining spots.",
           "To end a call hands-free, simply say 'Hey Siri, hang up'."
         ],
         "image_url": "https://placehold.co/800x600/FF9500/FFFFFF/png?text=Hands-Free+Calls"
@@ -42,9 +42,9 @@
       {
         "id": 4,
         "title": "Sending Text Messages",
-        "description": "Dictate and send text messages through iMessage or standard SMS.",
+        "description": "Dictate and send text messages through iMessage or standard SMS while on the go.",
         "steps": [
-          "Say 'Hey Siri, send a message to [Contact Name]'.",
+          "Say 'Hey Siri, send a message to Ahmad'.",
           "Siri will ask what you want to say. Speak your message clearly.",
           "Siri will read the message back to you for confirmation.",
           "Say 'Yes' or 'Send' to deliver the message."
@@ -54,11 +54,11 @@
       {
         "id": 5,
         "title": "Setting Alarms and Timers",
-        "description": "Perfect for cooking or waking up, let Siri manage your countdowns and alarms.",
+        "description": "Perfect for tracking coding sessions or waking up early, let Siri manage your countdowns and alarms.",
         "steps": [
-          "To set a timer, say 'Hey Siri, set a timer for 15 minutes'.",
+          "To set a timer, say 'Hey Siri, set a timer for 25 minutes'.",
           "To check a timer, say 'Hey Siri, how much time is left?'.",
-          "To set a morning alarm, say 'Hey Siri, wake me up at 6 AM'.",
+          "To set a morning alarm, say 'Hey Siri, wake me up at 5:30 AM'.",
           "To turn off an active ringing alarm, just say 'Hey Siri, stop'."
         ],
         "image_url": "https://placehold.co/800x600/FF2D55/FFFFFF/png?text=Alarms+and+Timers"
@@ -66,11 +66,11 @@
       {
         "id": 6,
         "title": "Creating Reminders",
-        "description": "Never forget a task by having Siri add items to your Reminders app.",
+        "description": "Never forget a task by having Siri add items to your Reminders app automatically.",
         "steps": [
-          "Say 'Hey Siri, remind me to buy milk tomorrow at 5 PM'.",
+          "Say 'Hey Siri, remind me to check the server logs tomorrow at 9 AM'.",
           "Siri will automatically create a time-based notification.",
-          "You can also use location-based reminders by saying 'Hey Siri, remind me to call Mom when I get home'.",
+          "You can also use location-based reminders by saying 'Hey Siri, remind me to check the mail when I get home'.",
           "View all your tasks by opening the 'Reminders' app."
         ],
         "image_url": "https://placehold.co/800x600/5856D6/FFFFFF/png?text=Create+Reminders"
@@ -78,21 +78,21 @@
       {
         "id": 7,
         "title": "Managing Calendar Events",
-        "description": "Keep your schedule organized by adding and checking calendar appointments.",
+        "description": "Keep your schedule organized by adding and checking calendar appointments via voice.",
         "steps": [
-          "Say 'Hey Siri, schedule a meeting with John for Thursday at 2 PM'.",
+          "Say 'Hey Siri, schedule a meeting for the Alpha Project on Thursday at 2 PM'.",
           "To check your schedule, ask 'Hey Siri, what is on my calendar for today?'.",
           "If you need to move an event, say 'Hey Siri, reschedule my 2 PM meeting to 4 PM'.",
-          "Siri will sync these changes directly to your Apple Calendar."
+          "Siri will sync these changes directly to your Calendar."
         ],
         "image_url": "https://placehold.co/800x600/FF3B30/FFFFFF/png?text=Calendar+Events"
       },
       {
         "id": 8,
         "title": "Playing Music and Audio",
-        "description": "Control Apple Music, Spotify, and podcasts using just your voice.",
+        "description": "Control your music playback, podcasts, and audio volume using just your voice.",
         "steps": [
-          "Say 'Hey Siri, play some relaxing music'.",
+          "Say 'Hey Siri, play some focus music'.",
           "To skip a track, say 'Hey Siri, next song'.",
           "To control volume, say 'Hey Siri, turn the volume up' or 'turn the volume to 50 percent'.",
           "You can also ask 'Hey Siri, what song is playing right now?' to identify music."
@@ -102,9 +102,9 @@
       {
         "id": 9,
         "title": "Getting Navigation Directions",
-        "description": "Get turn-by-turn directions and check traffic conditions for your commute.",
+        "description": "Get turn-by-turn directions and check traffic conditions for your daily commute.",
         "steps": [
-          "Say 'Hey Siri, give me directions to the nearest gas station'.",
+          "Say 'Hey Siri, give me directions to Pakuwon Mall'.",
           "Siri will open Apple Maps and begin routing.",
           "Ask 'Hey Siri, what is my ETA?' to know when you will arrive.",
           "Ask 'Hey Siri, is there traffic on my way home?' to check for delays."
@@ -113,11 +113,11 @@
       },
       {
         "id": 10,
-        "title": "Math and Unit Conversions",
-        "description": "Solve quick math problems, split bills, and convert currencies instantly.",
+        "title": "Math, Stocks, and Unit Conversions",
+        "description": "Solve quick math problems, check market prices, and convert currencies instantly.",
         "steps": [
           "Say 'Hey Siri, what is 45 multiplied by 12?'.",
-          "For splitting a bill, ask 'Hey Siri, what is a 20 percent tip on 85 dollars?'.",
+          "For market data, ask 'Hey Siri, what is the current stock price for BBRI?'.",
           "For currency, ask 'Hey Siri, how much is 50 US Dollars in Indonesian Rupiah?'.",
           "For measurements, ask 'Hey Siri, how many kilometers are in 10 miles?'."
         ],
@@ -126,7 +126,7 @@
       {
         "id": 11,
         "title": "Translating Languages",
-        "description": "Use Siri as a pocket translator when traveling or learning new languages.",
+        "description": "Use Siri as a pocket translator when traveling, reading, or learning new languages.",
         "steps": [
           "Say 'Hey Siri, how do you say where is the train station in Japanese?'.",
           "Siri will speak the translation out loud and show it on the screen.",
@@ -138,7 +138,7 @@
       {
         "id": 12,
         "title": "Finding Misplaced Devices",
-        "description": "Use Siri to ping your Apple Watch, AirPods, or iPad if you lose them nearby.",
+        "description": "Use Siri to ping your other Apple devices if you lose them nearby.",
         "steps": [
           "Say 'Hey Siri, find my Apple Watch' or 'Where are my AirPods?'.",
           "Siri will connect to the Find My network.",
@@ -149,12 +149,12 @@
       },
       {
         "id": 13,
-        "title": "Controlling Smart Home Devices",
+        "title": "Controlling HomeKit Smart Devices",
         "description": "Control lights, locks, and thermostats connected to your Apple Home app.",
         "steps": [
           "Ensure your smart devices are linked to the 'Home' app on your iPhone.",
           "Say 'Hey Siri, turn off the living room lights'.",
-          "Say 'Hey Siri, set the thermostat to 22 degrees'.",
+          "Say 'Hey Siri, set the air conditioner to 22 degrees'.",
           "Say 'Hey Siri, lock the front door' for enhanced home security."
         ],
         "image_url": "https://placehold.co/800x600/D19A66/FFFFFF/png?text=Smart+Home"
@@ -162,7 +162,7 @@
       {
         "id": 14,
         "title": "Using Custom Siri Shortcuts",
-        "description": "(Advanced) Create powerful, multi-step automations triggered by a single phrase.",
+        "description": "Create powerful, multi-step automations triggered by a single phrase.",
         "steps": [
           "Open the 'Shortcuts' app on your iPhone.",
           "Tap the '+' icon to create a new shortcut and add actions (e.g., Get Directions to Home AND Play Driving Playlist).",
